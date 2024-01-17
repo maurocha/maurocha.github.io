@@ -1,0 +1,9 @@
+url: https://maurocha.github.io/
+baseurl:
+gems: ['jekyll/scholar']
+markdown: kramdown
+permalink: pretty
+# Site settings
+title: Maurício Rocha
+email: mauricio.rocha@usp.br
+description: "Maurício Rebouças Rocha is a physical oceanographer who combines large ensembles, observations and reanalyses to study physical processes in the ocean related to the heat balance and their impacts on current and future climate."
